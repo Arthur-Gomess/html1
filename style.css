@@ -1,7 +1,19 @@
+h1 {
+    text-align: center;
+}
+
 p { 
     text-align: center;
 } 
 
 strong {
     color: purple
+}
+
+#missao {
+    font-size: 18px;
+}
+
+#oferecer {
+    font-size: 20px;
 }
